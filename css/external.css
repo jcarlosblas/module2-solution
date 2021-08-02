@@ -134,6 +134,8 @@ section {
       width: 91.66%;
     }
     .col-md-12 {
-      width: 100%;
+      width: fit-content;
+      margin-right: -25px;
+      margin-left: -25px;
     }
   }
